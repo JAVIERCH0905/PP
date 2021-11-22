@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 EDISON CHANCUSIG
 
 nueva informacion
+=======
+javier ch
+>>>>>>> develop
